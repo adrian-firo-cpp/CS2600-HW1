@@ -1,1 +1,3 @@
 Hello, my name is Adrian Firo and I am working on hw1
+
+Hello, our names are Adrian Firo and Ricardo Diaz and we are working on hw4 together
